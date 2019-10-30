@@ -9,4 +9,6 @@ output:
 
 # This is Xin's personal website
 
+You can learn about me [here](about.html).
+
 ![](images/chris-lawton-154388-unsplash.jpg)
