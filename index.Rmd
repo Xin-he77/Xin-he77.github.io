@@ -11,4 +11,6 @@ output:
 
 You can learn about me [here](about.html).
 
+You can access my GitHub [here](https://github.com/Xin-he77).
+
 ![](images/chris-lawton-154388-unsplash.jpg)
