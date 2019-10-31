@@ -6,8 +6,73 @@ output:
     toc_float: true
 ---
 
-My name is Xin He.
+**My name is Xin He.**
+
+I come from a beautiful city, Guangzhou, China.
+
+![](images/night-view-of-guangzhou-956095614-02914cb9e8324c49be6421560ba5ffed.jpg)
+
+## Education
+
+### Columbia University
+Mailman School of Public Health, Expected: 05/2020
+
+Master of Public Health, certificate in Chronic Disease Epidemiology
+
+### Sun Yat-sen University
+Graduated: 06/2018
+
+Bachelor Degree of Medicine, major in Forensic Medicine
 
 
+## Academic Experience
 
+### Data analyst, Herbert Irving Comprehensive Cancer Center, Columbia University       
+**Project Name:** Clinical trial of web-based decision support tools for women at high risk for breast cancer and their healthcare providers to increase chemoprevention uptake
+
+**Advisor:** Katherine Crew, MD, MS
+
+**Duties:** Analyzed data about high-risk women and breast cancer chemoprevention uptake
+
+**Content:** Determine whether the decision support tools (RealRisks and BNAV) increase breast cancer knowledge, accuracy of breast cancer risk perceptions, self-efficacy, and chemoprevention intention and uptake
+
+### Research Assistant, Department of Forensic Medicine, Sun Yat-sen University          
+**Project 1 Name:** Population Structure of Han Nationality in South Central China  
+
+**Project 2 Name:** Potential of 13 Linked Autosomal Short Tandem Repeat Loci in Pairwise Kinship Analysis
+
+**Advisor:** Dejian Lv, PhD
+
+**Duties:** Extracted DNA from the sample bloodstain and analyzed by means of STR Automatic Parting Technology 
+
+**Content:** Research into the application of 13 STR Loci in the paternity test and the diversity of 15 STR Loci among 6879 people from 12 provinces in the South Central China                                                          
+
+
+## Internship Experience
+
+**1. Volunteer (intern), New York City Department of Health and Mental Hygiene** 
+
+Assisted data collection and participants follow-up for Employee Smoking Cessation Assistance Program
+
+Data analysis for Employee Smoking Cessation Assistance Program
+
+**2. Intern, Guangdong Provincial Public Security Department**
+
+Assisted the legal medical expert and the police in solving cases, identifying the reason of death and participated in the research activities conducted by this department
+
+**3. Intern, Center for Medicolegal Expertise of Sun Yat-sen University**
+
+Assisted the professors to accomplish the Paternity Testing and identify the class of injury
+
+**4. Clinical Probationer and Group Leader, the Sixth Affiliated Hospital, Sun Yat-sen University** 
+
+Mastered clinical knowledge and actual operation 
+
+Rotation in different departments: Internal Medicine, Surgery, Pediatrics, Obstetrics and Gynecology, Ophthalmology, Ear-Nose-Throat, Psychiatry and Neurology
+
+
+## Publications
+
+1. Population Structure of Han Nationality in South Central China published in Forensic Science International: Genetics, Liu QL, Chen YF, **He X**, Shi YW, Wu WW, Zhao H, Lu DJ                                         
+2. Potential of 13 Linked Autosomal Short Tandem Repeat Loci in Pairwise Kinship Analysis published in Electrophoresis, Liu QL, Xue L, Wu WW, **He X**, Liu KY, Zhao H, Lu DJ  
 
