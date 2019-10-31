@@ -1,0 +1,61 @@
+---
+title: "Dashboard"
+output: 
+  flexdashboard::flex_dashboard:
+    orientation: columns
+    vertical_layout: fill
+---
+
+```{r setup, include=FALSE}
+library(flexdashboard)
+library(tidyverse)
+library(viridis)
+library(p8105.datasets)
+library(plotly)
+```
+
+```{r}
+data("instacart")
+
+set.seed(1)
+
+instacart = 
+  instacart %>% 
+  select(department, aisle, aisle_id, department_id, add_to_cart_order, order_dow) %>%
+  sample_n(10000)
+```
+
+
+Column {data-width=650}
+-----------------------------------------------------------------------
+
+### Chart A
+
+```{r}
+instacart %>% 
+  mutate(text_label = str_c("aisle id: ", aisle_id, '\nadd to cart order: ', add_to_cart_order)) %>% 
+  plot_ly(x = ~aisle_id, y = ~add_to_cart_order, type = "scatter", mode = "markers",
+          color = ~order_dow, text = ~text_label, alpha = 0.5)
+```
+
+Column {data-width=350}
+-----------------------------------------------------------------------
+
+### Chart B
+
+```{r}
+instacart %>% 
+  mutate(department = fct_reorder(department, add_to_cart_order)) %>% 
+  plot_ly(y = ~add_to_cart_order, color = ~department, type = "box",
+          colors = "Set2")
+```
+
+### Chart C
+
+```{r}
+instacart %>% 
+  count(department) %>% 
+  mutate(department = fct_reorder(department, n)) %>% 
+  plot_ly(x = ~department, y = ~n, color = ~department, type = "bar")
+```
+
